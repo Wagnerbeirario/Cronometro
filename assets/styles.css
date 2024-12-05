@@ -1,0 +1,28 @@
+body{
+    background: rgb(248, 243, 211);
+    color: black;
+}
+.container{
+    margin: 0 auto;
+    text-align: center;
+    max-width: 1000px;
+}
+button{
+    height: 2.3em;
+    width: 5.5em;
+    color: black;
+    border: 2px solid rgb(219, 219, 244);
+    cursor: pointer;
+    font-family: Monospace;
+    border-radius: 5px;
+}
+.init-btn{
+    background-color: #6bf76f;
+}
+.pause-btn{
+    background-color: rgb(133, 133, 250);
+    color: aliceblue;
+}
+.stop-btn{
+    background-color: rgb(252, 159, 159);
+}
